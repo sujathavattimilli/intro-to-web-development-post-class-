@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <body>
+            <img src="https://www.istockphoto.com/photo/variety-of-herbs-and-spices-on-slate-background-gm643760614-116858799" alt="Not found">
+            <h1> Sujatha Vattimilli </h1>
+            <a href="https://www.linkedin.com/mwlite/in/srinu-pulavarthi-69a8bb106">Linkedin Profile</a>
+            <section>
+                <h1 id="skills">Skills</h1>
+            </section>
+            <section id="projects">
+                <h1>Projects</h1>
+                <ul>
+                    <li>project1</li>
+                    <li>project2</li>
+                    <li>project3</li>
+                </ul>
+            </section>
+        </body>
+    </head>
+</html>
